@@ -6,7 +6,7 @@
 
 A comprehensive Power BI dashboard analyzing Spotify streaming data from 2004-2023, revealing trends in music consumption, artist performance, and audio characteristics.
 
-![Dashboard Preview](spotify-dashboard.png)
+![Dashboard Preview]([spotify-dashboard.png](https://github.com/Flo-wanjiku/Spotify_Music_Analysis/blob/main/Spotify%20Music%20Analysis.png))
 
 ## 📊 Dashboard Overview
 
